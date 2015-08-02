@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 days=10
 guest=Katie
 value1=42
