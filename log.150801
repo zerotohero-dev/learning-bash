@@ -1,0 +1,9 @@
+total 28
+drwxrwxr-x  3 ubuntu ubuntu 4096 Aug  1 20:43 .
+drwxr-xr-x 24 ubuntu ubuntu 4096 Jul 31 15:16 ..
+drwxrwxr-x  8 ubuntu ubuntu 4096 Jul 21 07:03 .git
+-rw-rw-r--  1 ubuntu ubuntu 1084 Jul 21 07:03 LICENSE
+-rw-rw-r--  1 ubuntu ubuntu    0 Aug  1 20:43 log.150801
+-rw-rw-r--  1 ubuntu ubuntu   93 Jul 21 07:04 log.txt
+-rwxrw-r--  1 ubuntu ubuntu   46 Jul 31 15:49 simple.sh
+-rw-rw-r--  1 ubuntu ubuntu  207 Aug  1 20:43 variables.sh
